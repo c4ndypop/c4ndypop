@@ -12,6 +12,5 @@ I'm always open to connect with like-minded people, learning from one another, a
 
 Reach me via: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anis-daniyah-a84066331/)
 
-![Anis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=c4ndypop&show_icons=true&count_private=true&hide=prs&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c4ndypop&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
